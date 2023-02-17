@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zkisaboss" alt="zkisaboss" /></a> </p>
 
-- 🔭 I’m currently working on [creating a useful website](https://github.com/zkisaboss/Food-App)
+- 🔭 I’m currently working on building a [website](https://github.com/zkisaboss/Food-App)
 
 - 🌱 I’m currently learning **Webflow, Python, and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/zachary-kosove-2605b7260/](https://www.linkedin.com/in/zachary-kosove-2605b7260/)
+- 👨‍💻 All of my projects are available on my [LinkedIn](https://www.linkedin.com/in/zachary-kosove-2605b7260/)
 
 - 📫 How to reach me **zacharykosove@gmail.com**
 
-- ⚡ Fun fact **The app I'm working on is my first individual coding project**
+- ⚡ Fun fact **I'm currently working on my first individual coding project!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
