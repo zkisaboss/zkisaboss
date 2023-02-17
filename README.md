@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [creating a useful website](https://github.com/zkisaboss/Food-App)
 
-- 🌱 I’m currently learning **First Principles Thinking, Webflow, Python, and MongoDB**
+- 🌱 I’m currently learning **Webflow, Python, and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/zachary-kosove-2605b7260/](https://www.linkedin.com/in/zachary-kosove-2605b7260/)
 
