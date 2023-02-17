@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zachary Kosove</h1>
-<h3 align="center">An enthusiastic website developer-to-be from New York</h3>
+<h3 align="center">An enthusiastic website dev and student from New York</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zkisaboss&label=Profile%20views&color=0e75b6&style=flat" alt="zkisaboss" /> </p>
 
